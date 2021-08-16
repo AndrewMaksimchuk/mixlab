@@ -3,27 +3,27 @@
 
     <ul class="flex flex-wrap gap-x-8">
       <li>
-        <nuxt-link to="/veterinarians" class="text-sm text-black hover:underline">
+        <nuxt-link to="/" class="text-sm text-black hover:underline">
           Veterinarians
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/works" class="text-sm text-black hover:underline">
+        <nuxt-link to="/" class="text-sm text-black hover:underline">
           How it works
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/about" class="text-sm text-black hover:underline">
+        <nuxt-link to="/" class="text-sm text-black hover:underline">
           About us
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/blog" class="text-sm text-black hover:underline">
+        <nuxt-link to="/" class="text-sm text-black hover:underline">
           Blog
         </nuxt-link>
       </li>
       <li>
-        <nuxt-link to="/shop" class="text-sm text-black hover:underline">
+        <nuxt-link to="/" class="text-sm text-black hover:underline">
           Shop
         </nuxt-link>
       </li>
