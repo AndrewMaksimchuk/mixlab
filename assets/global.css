@@ -1,0 +1,28 @@
+@font-face {
+  font-family: Rotobo;
+  font-style: normal;
+  font-weight: 400;
+  src: url('~/assets/Roboto-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.slider-hidden {
+  scrollbar-width: none;
+}
+
+.slider-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-slider {
+  scroll-snap-type: x mandatory;
+}
+
+.scroll-slider-item {
+  scroll-snap-align: center;
+}
